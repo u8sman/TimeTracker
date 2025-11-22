@@ -75,4 +75,3 @@ marshmallow==3.20.1
 # OCR for receipt scanning
 pytesseract==0.3.10
 
-uvicorn[standard]

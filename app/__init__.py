@@ -26,9 +26,7 @@ import sentry_sdk
 from sentry_sdk.integrations.flask import FlaskIntegration
 import posthog
 from sqlalchemy.pool import StaticPool
-from app import create_app
 
-app = create_app()
 
 
 # Load environment variables
